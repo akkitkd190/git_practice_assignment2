@@ -1,6 +1,5 @@
 
-num=num.toString();
-
+let num = "madan";
 
 let reverse="";
     
@@ -11,7 +10,7 @@ for (let i=num.length;i>=0;i--){
    
  if (reverse = num){
     
-    console.log(Yes);
+    console.log("Yes");
    
  }else {
   
